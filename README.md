@@ -12,5 +12,5 @@
 
 ### Research Paper Link: https://arxiv.org/pdf/2110.03352v2.pdf
 ### Medium Article link: https://medium.com/@karishma.kuria_14153/optimized-u-net-for-brain-tumor-segmentation-7166681f501c
-### Youtube Video link:https://youtu.be/vVepaCq4KtU
+### Youtube Video link: https://www.youtube.com/watch?v=KX9yW9k02Ag
 ### Slideshare PPT Link: https://www.slideshare.net/KarishmaKuria1/shortstorypptpptx-251589425
